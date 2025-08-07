@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 - 🌐 Interests: Penetration Testing, Network Engineering, Software Development
 
 ## 📈 GitHub Stats
-![Kurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurtjeraldemba&show_icons=true&theme=tokyonight)
+![Kurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeyLayO&show_icons=true&theme=tokyonight)
 
 ## 🏆 Top Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kurtjeraldemba&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeyLayO&layout=compact&theme=tokyonight)
 
 ## 📫 Contact Me
 - 📧 kjemba18@example.com
