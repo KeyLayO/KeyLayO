@@ -19,12 +19,14 @@ Here are some ideas to get you started:
 
 ## 🧑‍💻 About Me
 - 🎓 3rd-year Computer Science student
+- 🧑‍🎓 3rd-year Representative - CS
 - 💻 Learning Web Dev, Networking, and Cybersecurity
+- 🌐 Interests: Penetration Testing, Network Engineering, Software Development
 
 ## 🚀 Skills
 - 💡 Languages: Java, Python, VB.NET, JavaScript, HTML, CSS
+- 🧠 Soft Skills: Detail-Oriented, Problem Solving, Time Management 
 - 🧰 Tools: VSCode, IntelliJ, Git
-- 🌐 Interests: Penetration Testing, Network Engineering, Software Development
 
 ## 📈 GitHub Stats
 ![Kurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeyLayO&show_icons=true&theme=tokyonight)
@@ -33,5 +35,5 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeyLayO&layout=compact&theme=tokyonight)
 
 ## 📫 Contact Me
-- 📧 kjemba18@example.com
+- 📧 kjemba18@gmail.com
 - 🌐 [LinkedIn](https://www.linkedin.com/in/kurt-jerald-emba-85983b301/)
